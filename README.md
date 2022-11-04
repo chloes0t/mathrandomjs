@@ -1,3 +1,5 @@
+Play around with it here: https://dylans0gt.github.io/mathrandomjs/
+---
 Math.random JS
 An entertaining demonstration of Javascripts Math.random function as well as the setInterval function.
 ---
